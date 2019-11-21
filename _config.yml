@@ -56,8 +56,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  #name   : "First Lastname"
+  #avatar : "/assets/images/bio-photo.jpg"
   bio    : "This is a blog about statistics, machine learning and data science engineering"
   links:
     #- label: "Website"
