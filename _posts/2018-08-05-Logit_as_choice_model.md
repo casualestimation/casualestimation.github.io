@@ -1,8 +1,7 @@
 ---
-layout: post
 title:  "Logistic Regression as a Choice Model"
 date:   2018-08-05
-author : Johannes Haupt
+author: Johannes Haupt
 categories:
   - statistical modeling
 tags:
