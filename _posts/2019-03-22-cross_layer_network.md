@@ -1,13 +1,13 @@
 ---
-layout: post
 title:  "Pytorch Implementation of Cross aka Interaction Layers: Cross and Deep Network"
 date:   2019-03-22
 categories:
+  - paper summary
+tags:
   - python
   - pytorch
   - neural network
-  - NN architecture
-  - paper summary
+  - neural network layer
 ---
 
 

@@ -2,10 +2,11 @@
 title:  "Linear Regression with Stochastic Gradient Descent in Pytorch"
 date:   2019-03-02
 categories:
-  - neural network
+  - tutorial
 tags:
   - pytorch
-  - tutorial
+  - optimization
+  - neural network
 ---
 
 

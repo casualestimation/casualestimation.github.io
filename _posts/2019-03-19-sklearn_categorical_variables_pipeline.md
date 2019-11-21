@@ -1,10 +1,10 @@
 ---
-layout: post
 title:  "Categorical Variables and ColumnTransformer in scikit-learn"
 date:   2019-03-10
 categories:
-  - scikit-learn
   - tutorial
+tags:
+  - scikit-learn
   - python
   - data processing
   - ML pipeline
