@@ -28,7 +28,7 @@ X_train, y_train = X[:500,:], y[:500]
 X_valid, y_valid = X[500:,:], y[500:]
 ```
 
-We have created a customer neural network module. The example below is a very simple network, so we could as well use the fastai tabular model. However, for my own use cases, I've found myself needed to implement architectures not covered by the fastai library. 
+We have created a custom neural network module. The example below is a very simple network, so we could as well use the fastai tabular model. However, for my own use cases, I've found myself needed to implement architectures not covered by the fastai library. 
 
 
 ```python
